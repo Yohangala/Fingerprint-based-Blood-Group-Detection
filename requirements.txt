@@ -1,0 +1,8 @@
+Flask
+werkzeug
+Pillow
+scikit-learn
+# Add PyTorch and torchvision versions here for the REAL prediction logic
+# torch
+# torchvision
+# albumentations
